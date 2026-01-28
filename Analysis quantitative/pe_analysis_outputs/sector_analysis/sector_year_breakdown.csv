@@ -1,0 +1,218 @@
+"investment_year","sector","deal_count","total_value"
+2005,"Basic Materials",4,29
+2005,"Consumer Cyclicals",31,201
+2005,"Consumer Non-Cyclicals",3,112
+2005,"Financials",6,30
+2005,"Healthcare",18,125
+2005,"Industrials",17,163
+2005,"Technology",22,442
+2005,"Utilities",2,22
+2006,"Academic & Educational Services",1,3
+2006,"Basic Materials",8,35
+2006,"Consumer Cyclicals",45,407
+2006,"Consumer Non-Cyclicals",15,198
+2006,"Energy",3,61
+2006,"Financials",20,278
+2006,"Healthcare",16,182
+2006,"Industrials",52,492
+2006,"Real Estate",11,90
+2006,"Technology",35,148
+2006,"Utilities",1,0
+2007,"Academic & Educational Services",1,10
+2007,"Basic Materials",16,29
+2007,"Consumer Cyclicals",64,557
+2007,"Consumer Non-Cyclicals",12,98
+2007,"Energy",8,84
+2007,"Financials",51,1332
+2007,"Healthcare",26,115
+2007,"Industrials",113,892
+2007,"Real Estate",15,799
+2007,"Technology",62,2609
+2007,"Utilities",3,0
+2008,"Academic & Educational Services",7,4
+2008,"Basic Materials",14,257
+2008,"Consumer Cyclicals",64,426
+2008,"Consumer Non-Cyclicals",15,347
+2008,"Energy",7,17
+2008,"Financials",33,285
+2008,"Healthcare",21,417
+2008,"Industrials",67,318
+2008,"Real Estate",17,526
+2008,"Technology",53,527
+2008,"Utilities",4,18
+2009,"Academic & Educational Services",4,30
+2009,"Basic Materials",1,11
+2009,"Consumer Cyclicals",19,249
+2009,"Consumer Non-Cyclicals",8,6
+2009,"Energy",5,64
+2009,"Financials",22,249
+2009,"Healthcare",17,52
+2009,"Industrials",32,434
+2009,"Technology",64,537
+2009,"Utilities",9,68
+2010,"Academic & Educational Services",10,81
+2010,"Basic Materials",10,422
+2010,"Consumer Cyclicals",31,295
+2010,"Consumer Non-Cyclicals",11,145
+2010,"Energy",5,66
+2010,"Financials",27,495
+2010,"Healthcare",20,296
+2010,"Industrials",55,430
+2010,"Real Estate",6,16
+2010,"Technology",47,422
+2010,"Utilities",16,460
+2011,"Academic & Educational Services",10,48
+2011,"Basic Materials",17,85
+2011,"Consumer Cyclicals",89,782
+2011,"Consumer Non-Cyclicals",26,237
+2011,"Energy",6,53
+2011,"Financials",64,720
+2011,"Government Activity",2,0
+2011,"Healthcare",23,72
+2011,"Industrials",72,684
+2011,"Real Estate",12,599
+2011,"Technology",96,412
+2011,"Utilities",12,445
+2012,"Academic & Educational Services",6,12
+2012,"Basic Materials",11,77
+2012,"Consumer Cyclicals",103,1661
+2012,"Consumer Non-Cyclicals",27,513
+2012,"Energy",7,55
+2012,"Financials",68,627
+2012,"Healthcare",42,610
+2012,"Industrials",72,1223
+2012,"Real Estate",8,66
+2012,"Technology",110,436
+2012,"Utilities",3,8
+2013,"Academic & Educational Services",1,0
+2013,"Basic Materials",4,7
+2013,"Consumer Cyclicals",126,562
+2013,"Consumer Non-Cyclicals",21,106
+2013,"Energy",5,4
+2013,"Financials",68,453
+2013,"Healthcare",43,748
+2013,"Industrials",50,802
+2013,"Real Estate",3,23
+2013,"Technology",58,487
+2013,"Utilities",6,149
+2014,"Academic & Educational Services",1,0
+2014,"Basic Materials",6,120
+2014,"Consumer Cyclicals",43,584
+2014,"Consumer Non-Cyclicals",13,194
+2014,"Energy",2,0
+2014,"Financials",47,439
+2014,"Healthcare",24,515
+2014,"Industrials",41,634
+2014,"Real Estate",15,185
+2014,"Technology",111,2263
+2014,"Utilities",12,464
+2015,"Academic & Educational Services",14,308
+2015,"Basic Materials",4,51
+2015,"Consumer Cyclicals",82,1076
+2015,"Consumer Non-Cyclicals",18,160
+2015,"Energy",5,109
+2015,"Financials",52,1048
+2015,"Healthcare",30,156
+2015,"Industrials",39,577
+2015,"Real Estate",7,159
+2015,"Technology",186,2063
+2015,"Utilities",9,389
+2016,"Academic & Educational Services",5,4
+2016,"Basic Materials",4,25
+2016,"Consumer Cyclicals",47,529
+2016,"Consumer Non-Cyclicals",17,27
+2016,"Energy",2,10
+2016,"Financials",52,955
+2016,"Healthcare",34,1029
+2016,"Industrials",22,261
+2016,"Real Estate",2,12
+2016,"Technology",104,631
+2016,"Utilities",6,230
+2017,"Academic & Educational Services",5,8
+2017,"Consumer Cyclicals",37,205
+2017,"Consumer Non-Cyclicals",7,262
+2017,"Financials",67,2482
+2017,"Healthcare",27,327
+2017,"Industrials",25,1481
+2017,"Real Estate",7,39
+2017,"Technology",142,1960
+2017,"Utilities",9,414
+2018,"Academic & Educational Services",5,24
+2018,"Basic Materials",13,1356
+2018,"Consumer Cyclicals",68,799
+2018,"Consumer Non-Cyclicals",12,38
+2018,"Energy",2,0
+2018,"Financials",81,995
+2018,"Healthcare",42,1005
+2018,"Industrials",40,241
+2018,"Real Estate",6,72
+2018,"Technology",170,3247
+2018,"Utilities",15,1019
+2019,"Academic & Educational Services",22,98
+2019,"Basic Materials",6,29
+2019,"Consumer Cyclicals",119,1606
+2019,"Consumer Non-Cyclicals",79,363
+2019,"Energy",2,72
+2019,"Financials",80,1699
+2019,"Healthcare",51,280
+2019,"Industrials",111,2648
+2019,"Real Estate",30,853
+2019,"Technology",337,2421
+2019,"Utilities",18,2075
+2020,"Academic & Educational Services",39,348
+2020,"Basic Materials",12,169
+2020,"Consumer Cyclicals",147,7236
+2020,"Consumer Non-Cyclicals",84,313
+2020,"Energy",1,0
+2020,"Financials",91,1556
+2020,"Healthcare",45,701
+2020,"Industrials",84,733
+2020,"Real Estate",22,812
+2020,"Technology",463,23112
+2020,"Utilities",28,435
+2021,"Academic & Educational Services",51,717
+2021,"Basic Materials",21,63
+2021,"Consumer Cyclicals",296,3521
+2021,"Consumer Non-Cyclicals",173,747
+2021,"Energy",7,5
+2021,"Financials",153,1181
+2021,"Healthcare",96,687
+2021,"Industrials",229,1062
+2021,"Real Estate",30,652
+2021,"Technology",1062,15056
+2021,"Utilities",27,571
+2022,"Academic & Educational Services",85,500
+2022,"Basic Materials",23,124
+2022,"Consumer Cyclicals",248,2987
+2022,"Consumer Non-Cyclicals",169,808
+2022,"Energy",17,10
+2022,"Financials",209,3182
+2022,"Healthcare",132,621
+2022,"Industrials",267,2076
+2022,"Real Estate",29,129
+2022,"Technology",830,4337
+2022,"Utilities",16,524
+2023,"Academic & Educational Services",16,6
+2023,"Basic Materials",26,9
+2023,"Consumer Cyclicals",247,1814
+2023,"Consumer Non-Cyclicals",176,232
+2023,"Energy",10,2
+2023,"Financials",112,691
+2023,"Government Activity",15,5
+2023,"Healthcare",110,468
+2023,"Industrials",206,640
+2023,"Real Estate",10,127
+2023,"Technology",498,2281
+2023,"Utilities",20,117
+2024,"Academic & Educational Services",20,13
+2024,"Basic Materials",24,23
+2024,"Consumer Cyclicals",265,1484
+2024,"Consumer Non-Cyclicals",179,1557
+2024,"Energy",6,3
+2024,"Financials",136,1369
+2024,"Healthcare",154,621
+2024,"Industrials",216,386
+2024,"Institutions, Associations & Organizations",1,0
+2024,"Real Estate",16,168
+2024,"Technology",510,3561
+2024,"Utilities",29,160
